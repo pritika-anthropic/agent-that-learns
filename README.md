@@ -2,7 +2,7 @@
 
 **Most AI agents work once. This one gets better every time it runs.**
 
-A self-improving customer discovery agent built with Claude's API. Run it, grade it, find failure patterns, improve the prompt, rerun, measure the difference. In 20 minutes.
+A self-improving customer discovery agent built with Claude's API. Run it, grade it, find failure patterns, improve the prompt, rerun, measure the difference. In 3 minutes.
 
 ---
 
