@@ -1,4 +1,4 @@
-# 🧠 Build an AI Agent That Learns From Its Mistakes
+# Build an AI Agent That Learns From Its Mistakes
 
 A self-improving customer discovery agent built with Claude's API. Run it, grade it, find failure patterns, improve the prompt, rerun, measure the difference.
 
