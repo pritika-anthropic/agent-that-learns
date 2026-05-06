@@ -9,7 +9,7 @@ A self-improving customer discovery agent built with Claude's API. Run it, grade
 ## Quick Start
 
 ```bash
-git clone https://github.com/pritikabutternut/agent-that-learns.git
+git clone https://github.com/pritika-anthropic/agent-that-learns.git
 cd agent-that-learns
 pip install anthropic
 export ANTHROPIC_API_KEY="your-key-here"
