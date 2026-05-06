@@ -1,0 +1,21 @@
+# API keys — never commit these
+.env
+
+# Generated output
+agent_results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

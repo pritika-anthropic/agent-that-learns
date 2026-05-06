@@ -1,0 +1,62 @@
+[
+  {
+    "id": "note_001",
+    "source": "user_interview",
+    "date": "2026-04-28",
+    "raw_text": "call with sarah from fintech startup (series A, 30 ppl). she said their biggest pain is onboarding enterprise customers. takes 3 weeks manually. tried automating with zapier but it breaks. she mentioned they spend $15k/mo on a contractor just for onboarding. would pay 'anything reasonable' to fix this. also complained about their CRM not syncing properly but seemed like a minor issue compared to onboarding. she asked if we integrate with salesforce. i said we're working on it (we're not lol). overall very enthusiastic, asked to be a beta tester."
+  },
+  {
+    "id": "note_002",
+    "source": "slack_message",
+    "date": "2026-04-29",
+    "raw_text": "hey team, just got off a call with mike from healthtech co (~500 ppl, series C). he was SUPER enthusiastic — kept saying 'this is exactly what we need' and 'I can see us rolling this out company-wide.' he wants to replace their entire manual data entry workflow (40 hrs/week across the team). BUT when i asked about next steps he said 'let me socialize this internally and get buy-in from our VP of Engineering and legal team.' he also mentioned they just signed a 2-year contract with a competitor last quarter but 'might be able to get out of it.' he asked for a case study he could share internally. also their fiscal year planning is in Q4 so new budget won't be available until January. i think this could be massive but it's going to take a while."
+  },
+  {
+    "id": "note_003",
+    "source": "user_interview",
+    "date": "2026-04-30",
+    "raw_text": "talked to priya, solo founder building an AI writing tool. she's using openai right now but frustrated with inconsistent outputs. said she's tried claude and liked it better for long-form content. her main issue isn't the AI though — it's distribution. she has no idea how to get users. charges $29/mo, has about 50 users, all from product hunt launch. she said she'd switch to our platform if we could help with distribution somehow?? not sure how that's relevant to us. she did mention that prompt management is a nightmare for her — she has 200+ prompts in a google doc. also she can't really afford to pay for another tool right now, she's bootstrapped and has about 4 months of runway left."
+  },
+  {
+    "id": "note_004",
+    "source": "founder_dm",
+    "date": "2026-05-01",
+    "raw_text": "dm from alex on twitter — 'yo i saw your demo, looks sick. we're building an AI SDR tool and need exactly this. currently paying $2k/mo for apollo + outreach + clay and it barely works. our conversion rate on cold emails is like 2%. can your tool do personalized outreach at scale? we have 10k leads we need to process. also do you have an API? we want to embed this in our product.' followed up asking about pricing and timeline. BUT i looked up his company and they have 2 employees, launched 3 weeks ago, and their website is a single landing page with a waitlist. no revenue mentioned anywhere. his linkedin says he's also working on two other projects."
+  },
+  {
+    "id": "note_005",
+    "source": "user_interview",
+    "date": "2026-05-01",
+    "raw_text": "call with jessica, PM at a mid-size saas company (200 employees). she was referred by our investor. honestly felt like a courtesy call — she was polite but not that engaged. said they have an 'AI committee' that evaluates new tools quarterly. next review is in Q3. she liked the demo and said she'd 'share it with the team.' when i asked about current pain points she gave very generic answers — 'we want to be more efficient' and 'AI is on our roadmap.' no specific use case, no budget discussion, no urgency. i don't think this goes anywhere soon."
+  },
+  {
+    "id": "note_006",
+    "source": "slack_message",
+    "date": "2026-05-02",
+    "raw_text": "update: got a follow-up email from sarah (fintech, note_001). she talked to her CEO and they want to do a paid pilot. $5k/mo for 3 months. they want to start with onboarding automation for their top 10 enterprise clients. she asked for a SOW by friday. also she referred us to 2 other fintech founders who have the same problem. THIS IS HUGE. also she mentioned their competitor just raised $50M and is hiring like crazy so they feel pressure to automate everything."
+  },
+  {
+    "id": "note_007",
+    "source": "user_interview",
+    "date": "2026-05-02",
+    "raw_text": "talked to raj, CTO of a logistics startup (YC W26, 4 ppl). super technical, asked great questions about our architecture. he's building a route optimization tool and wants to add AI for customer communication — automated updates, delay predictions, complaint handling. currently doing it all manually over whatsapp. has 200 business customers, growing 30% MoM. he said he evaluated openai, gemini, and claude and likes claude best for structured outputs. wants to use our API to build custom workflows. asked about pricing for high volume — they process 50k messages/month. BUT then he also asked if we could build a custom integration with their proprietary routing engine, help them with their whatsapp business API setup, and 'maybe also help with their billing system.' kept adding scope every 5 minutes. at the end he said 'we'd want all of this working before we commit to paying anything.'"
+  },
+  {
+    "id": "note_008",
+    "source": "founder_dm",
+    "date": "2026-05-03",
+    "raw_text": "got a weird dm from someone claiming to be a 'growth hacker' who wants to 'partner' with us. says he can get us 1000 users in a week through his 'network'. wants 20% revenue share. seems sketchy. also he couldn't really explain what his 'network' is. when i asked for references he sent me links to 3 different crypto projects. pass."
+  },
+  {
+    "id": "note_009",
+    "source": "user_interview",
+    "date": "2026-05-03",
+    "raw_text": "interesting call with maria, head of ops at a fast-growing e-commerce brand (80 ppl, $20M ARR). she doesn't care about AI at all — her words: 'i don't care if it's AI or magic, i just need my returns processing to not take 3 days.' currently her team manually reviews every return request, checks against policy, processes refund, updates inventory. takes 45 min per return, they do 200/day. she asked 'can your thing just handle this end to end?' i showed a rough demo and she literally pulled in her CFO on the spot. CFO asked about error rates and what happens when the AI gets it wrong. maria said 'even if it's 80% accurate it saves us 100 hours a week.' they want a proposal by next week. BUT she also mentioned they're evaluating 3 other vendors and the CFO seemed skeptical about AI accuracy."
+  },
+  {
+    "id": "note_010",
+    "source": "user_interview",
+    "date": "2026-05-04",
+    "raw_text": "great call with deepak, cofounder of a legal tech startup (YC S26, 6 ppl). they automate contract review for startups. currently processing 500 contracts/month manually with a team of 3 paralegals. each review takes 2-4 hours. he wants to use AI to do first-pass review and flag issues. tried GPT-4 but said it 'hallucinates clauses that don't exist' and they can't trust it. when i showed him how claude handles structured extraction with citations he literally said 'holy shit that's exactly what we need.' wants to start a pilot next week. has budget — they charge clients $500/contract so there's clear ROI. he asked about volume discounts for 1000+ contracts/month. BUT here's the thing — his cofounder wasn't on the call and apparently she's 'more cautious about switching tech stacks mid-growth.' deepak said he'd 'work on convincing her this weekend.'"
+  }
+]
