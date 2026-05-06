@@ -2,7 +2,7 @@
 
 A self-improving customer discovery agent built with Claude's API. Run it, grade it, find failure patterns, improve the prompt, rerun, measure the difference.
 
-**[Read the full blog post →](https://foregoing-belief-b65.notion.site/Build-an-AI-Agent-That-Learns-From-its-Mistakes-3580895db35c80e2a194c0a2f3d4c0d2)**
+**[Read the full blog post →](https://foregoing-belief-b65.notion.site/Build-an-AI-Agent-That-Learns-From-Its-Mistakes-3580895db35c802d8710cda6b1a5318d)**
 
 ---
 
